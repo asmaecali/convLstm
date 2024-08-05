@@ -14,8 +14,7 @@ Ce code sert à prédire des actions à partir d'une séquence vidéo.
 
 Il suffit de modifier le chemin de la data si besoin, ainsi que celui de la vidéo.
 
-Puis exécuter par la commande python3 ar.py
-
+Executez le code `python3 ar.py` 
 
 
 
