@@ -8,7 +8,7 @@ Ce code sert à prédire des actions à partir d'une séquence vidéo.
 
 2- *predict_single_action* : La fonction predict_single_action charge un modèle pré-entraîné, effectue des prédictions sur les frames extraites, et retourne la classe prédite (normal ou anormal).
 
-3- *ar* : La fonction ar utilise le modèle pour prédire le comportement dans la vidéo spécifiée et retourne False si le comportement est "anormal" et True si le comportement est "normal".
+3- *ar* : La fonction ar utilise le modèle pour prédire le comportement dans la vidéo spécifiée et retourne **False** si le comportement est "anormal" et **True** si le comportement est "normal".
 
 ## Utilisation
 
